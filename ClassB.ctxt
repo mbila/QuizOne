@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=lastName
+comment0.target=ClassB(java.lang.String)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ ClassB\n
+comment1.params=
+comment1.target=java.lang.String\ getLastName()
+numComments=2
